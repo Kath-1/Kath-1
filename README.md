@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @Kath-1
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning GraphQL 
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ...
 
 <!---
 Kath-1/Kath-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
